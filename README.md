@@ -61,3 +61,8 @@ And it happens all the time
  Been lucid dreaming now
 And im gone out my mind
 }
+
+## Project files
+
+- `index.html` — main release page
+- `styles/style.css` — organized stylesheet
